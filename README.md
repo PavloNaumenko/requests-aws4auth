@@ -19,7 +19,7 @@ Supported Services
 
 This package has been tested as working against:
 
-AppStream, Auto-Scaling, CloudFormation, CloudFront, CloudHSM,
+AppStream, AppSync, Auto-Scaling, CloudFormation, CloudFront, CloudHSM,
 CloudSearch, CloudTrail, CloudWatch Monitoring, CloudWatch Logs,
 CodeDeploy, Cognito Identity, Cognito Sync, Config, DataPipeline, Direct
 Connect, DynamoDB, Elastic Beanstalk, ElastiCache, EC2, EC2 Container
@@ -28,7 +28,7 @@ Elastic Transcoder, Glacier, Identity and Access Management (IAM), Key
 Management Service (KMS), Kinesis, Lambda, Opsworks, Redshift,
 Relational Database Service (RDS), Route 53, Simple Storage Service
 (S3), Simple Notification Service (SNS), Simple Queue Service (SQS),
-Storage Gateway, Security Token Service (STS)
+Storage Gateway, Security Token Service (STS) 
 
 The following services do not support AWS auth version 4 and are not
 usable with this package:
